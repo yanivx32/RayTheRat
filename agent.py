@@ -18,7 +18,6 @@ SERVER_PORT = 2242
 RETRY_DELAY = 60
 UPLOAD_DIR = r'C:\Users\Public\Documents\Microsoft\Upload'
 
-# תיקון PATH במקרה שחסר
 ESSENTIAL_PATHS = [
     r"C:\Windows\System32",
     r"C:\Windows",
