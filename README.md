@@ -15,17 +15,20 @@ The controller manages multiple connected agents, providing options like interac
 ### 1️⃣ Agent
 - Edit the `agent.py` file and configure the **`SERVER_IP`** and **`SERVER_PORT`** with the Controller's IP and PORT.
 - Compile the agent to an EXE:
+  
   ```bash
   pyinstaller --noconsole --onefile agent.py
 
 
 ### 2️⃣ Controller
 - Edit Controller.py if needed to set:
+  
   ```bash
   LISTEN_IP = '0.0.0.0'
   LISTEN_PORT = 2242
 
 - Run the Controller:
+  
   ```bash
   python Controller.py
 
