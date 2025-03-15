@@ -1,4 +1,8 @@
 
+![rayTheRat](https://github.com/user-attachments/assets/6cf056f4-c7c9-4e3a-be1e-2c2c2d1caff9)
+
+
+
 # Multi-Client Reverse Shell
 
 A Python-based reverse shell project featuring a multi-client controller and agent.
