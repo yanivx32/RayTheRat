@@ -41,3 +41,9 @@ The controller manages multiple connected agents, providing options like interac
 - File upload/download.
 - Persistence (startup folder injection).
 
+
+### This tool is provided for educational and authorized security testing purposes only. The use of this tool is entirely at the user's own risk. You are solely responsible for any actions performed using this tool.
+
+⚠️ Unauthorized use of this tool on systems without explicit permission is strictly prohibited and may violate local, state, and federal laws.
+
+By using this tool, you agree that you have explicit authorization to test the target systems and that you will not use it for any malicious or illegal activities. The author assumes no liability for any misuse or damage caused.
